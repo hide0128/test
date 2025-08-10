@@ -20,3 +20,4 @@ def is_prime(num):
     return True
 
 print(f"Is {result} prime? {is_prime(result)}")
+import utils.helper
